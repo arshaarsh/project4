@@ -9,7 +9,7 @@
     color: rgb(241 173 14);
     padding-top: 30px;
     font-weight: bold;
-    font-size: 60px;
+    font-size: 50px;
 }
 .link1{
     color: rgb(54, 50, 50);
@@ -391,11 +391,13 @@
     background-color: white;
     text-align: center;
     padding: 35px 45px;
+     margin:20px;
 }
 .inbox30{
     background-color:rgb(241 173 14) ;
     text-align: center;
     padding: 35px 45px;
+    margin:20px;
 }
 .bi4{
     color: white;
@@ -426,9 +428,11 @@
     background-color: black;
     /* height: 300px; */
 }
+.inbox31{
+    padding:30px;
+}
 .dora1{
     text-align: center;
     color: white;
     font-size: 20px;
-    padding: 45px;
 }
