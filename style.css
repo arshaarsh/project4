@@ -1,0 +1,434 @@
+
+.sec1{
+    background-image: url(bw\ building.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px 30px;
+}
+.head{
+    color: rgb(241 173 14);
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 60px;
+}
+.link1{
+    color: rgb(54, 50, 50);
+    font-weight: bold;
+}
+.inbox1{
+    background-color: rgba(11, 14, 18, 0.678);
+    min-height: 250px;
+    margin-bottom: 30px;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.inbox{
+    margin-bottom: 20px;
+}
+.flower{
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+}
+.flower1{
+    color: white;
+
+}
+.mar{
+    background-color:rgb(241 173 14) ;
+    width: 60px;
+    height: 10px;
+    margin: auto;
+}
+.unique{
+    font-weight: bold;
+    text-align: center;
+}
+.mor{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    border: 2px solid rgb(241 173 14);
+    height: 45px;
+    width: 140px;
+    padding: 5px 35px;
+}
+.bi{
+    color: rgb(241 173 14);
+    font-size: 40px;
+}
+.sec2{
+    margin-top: 45px;
+}
+.moon{
+    padding: 15px 20px;
+}
+.more1{
+    background-color: rgb(241 173 14);
+    font-size: 15px;
+    text-decoration: none;
+    padding: 10px 55px;
+    color: white;
+    margin-bottom: 10px;
+}
+.star{
+    padding: 20px 20px;
+}
+.inbox6{
+    background-color: hsl(0deg 0% 94.51%);
+    margin-top: 50px;
+    /* height: 200px; */
+    text-align: center;
+    padding: 25px 20px;
+}
+.sec3{
+    background-color: hsl(0deg 0% 94.51%);
+    /* height: 300px; */
+    margin-top: 60px;
+    padding-top: 40px;
+}
+.inbox3{
+    background-image: url(image.jpg);
+    height:500px ;
+    background-size: cover;
+    filter: grayscale();
+    padding-top: 350px;
+}
+.hud{
+    color: white;
+    text-align: center;
+}
+.sam{
+    color: white;
+    text-align: center;
+}
+.inbox8{
+    /* background-image: url(building.avif); */
+    /* height: 300px; */
+    background-size: cover;
+    margin-top: 40px;
+}
+.inbox9{
+    /* background-image: url(civil.avif); */
+    /* height: 300px; */
+    background-size: cover;
+    margin-top: 45px;
+}
+.light{
+    font-size: 20px;
+}
+.people{
+    margin-top: 40px;
+    font-weight: bold;
+}
+.trust{
+    margin-top: 40px;
+    font-weight: bold;
+}
+.bi1{
+    font-size: 20px;
+    color:rgb(241 173 14);
+}
+.sec4{
+    background-color:hsl(0deg 0% 94.51%);
+    padding-bottom: 50px;
+}
+.wood{
+    text-align: center;
+    font-weight: bold;
+    font-size: 55px;
+    margin-top: 50px;
+}
+.truss{
+    text-align: center;
+}
+.inbox12{
+    background-color:rgb(241 173 14) ;
+    padding: 65PX;
+    margin-top: 30px;
+}
+.inbox13{
+    margin-top: 30px;
+}
+.about{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.about1{
+    color: white;
+    text-align: center;
+}
+.inbox14{
+    margin-top: 30px;
+}
+.inbox15{
+    background-color: white;
+    padding: 65px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.mission{
+    color: black;
+    text-align: center;
+    font-weight:bold ;
+}
+.miss{
+    color: black;
+    text-align: center;
+}
+.sec5{
+    background-image: url(computer.avif);
+    background-size: cover;
+    /* margin-top: 35px; */
+}
+.opacity{
+    background-color: rgba(0, 0, 0, 0.854);
+}
+.bi2{
+    color:rgb(241 173 14);
+    font-size: 50px;
+}
+.a{
+    color: white;
+    font-size: 60px;
+}
+.b{
+    color: rgb(241 173 14);
+}
+.inbox16{
+    text-align: center;
+    padding: 50px;
+}
+.inbox17{
+    background-color:rgb(241 173 14) ;
+    /* height: 100px; */
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+}
+.c{
+    color: white;
+    font-weight: bold;
+}
+.d{
+    font-weight: bold;
+    margin:50px;
+    padding: 15px;
+}
+.e{
+    font-weight: bold;
+}
+.color{
+    color: rgb(161, 160, 160);
+}
+.bi3{
+    color: black;
+    font-size: 40px;
+}
+.inbox22{
+    background-color: hsl(42.77deg 87.04% 78.82%);
+
+}
+.inbox23{
+    background-color: hsl(41.54deg 86.67% 97.06%);
+    padding-bottom: 20px;
+}
+.s12{
+    text-align: center;
+    padding :15px;
+    font-weight: bold;
+}
+.g1{
+    text-align: center;
+    padding: 10px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.doll{
+    text-align: center;
+    font-weight: bold;
+}
+.no1{
+    background-color:hsl(42.77deg 87.04% 78.82%);
+    padding: 9px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+.no1:hover{
+    color: black;
+}
+.dora{
+    text-align: center;
+}
+.inbox24{
+    background-color: rgb(241 173 14);
+}
+.inbox25{
+    background-color: rgb(254 254 254);
+    padding-bottom: 20px;
+}
+.s13{
+    text-align: center;
+    padding :15px;
+    font-weight: bold;
+}
+.g2{
+    text-align: center;
+    padding: 10px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.doll1{
+    text-align: center;
+    font-weight: bold;
+}
+.no2{
+    background-color:  rgb(241 173 14);
+    padding: 9px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 20px;
+}
+.no2:hover{
+    color: black;
+}
+.dora{
+    text-align: center;
+}
+.sec8{
+    background-image: url(website\ design.jpg);
+    background-size: cover;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+.pink{
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 35px;
+}
+.pink1{
+    color: rgb(101, 101, 101);
+    text-align: center;
+    font-size: 20px;
+}
+.inbox27{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 30px 15px;
+}
+.rose{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.red{
+    border-radius: 50%;
+    margin-bottom: 25px;
+}
+.day1{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 9px 25px;
+}
+.icon{
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+.sec9{
+    background-color: hsl(0deg 0% 94.51%);
+    padding-bottom: 45px;
+}
+.day{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.inbox28{
+    background-color: white;
+    border-radius: 25px;
+    padding: 30px 40px;
+    margin: 2px 0px;
+}
+.green{
+    text-align: center;
+    padding: 30px;
+}
+.girl{
+    border-radius: 100%;
+    margin-left: 25%;
+}
+.cel{
+    font-weight: bold;
+}
+.view{
+    text-decoration: none;
+    font-size: 15px;
+    background-color: rgb(241 173 14);
+    padding: 9px 25px;
+    color: white;
+}
+.icon1{
+    text-align: center;
+    margin-top: 45px;
+    /* margin-bottom: 50px; */
+}
+.sec10{
+    background-image:url(blackwhite1.jpg);
+    background-size: cover;
+}
+.inbox29{
+    background-color: white;
+    text-align: center;
+    padding: 35px 45px;
+}
+.inbox30{
+    background-color:rgb(241 173 14) ;
+    text-align: center;
+    padding: 35px 45px;
+}
+.bi4{
+    color: white;
+    font-size: 40px;
+}
+.bi5{
+    font-size: 40px;
+}
+.add{
+    font-weight: bold;
+    padding-top: 25px;
+}
+.add1{
+    font-weight: bold;
+    padding-top: 25px;
+    color: white;
+}
+.hav{
+    font-size: 20px;
+    padding-top:15px;
+}
+.hav1{
+    font-size: 20px;
+    padding-top:15px;
+    color: white;
+}
+.sec11{
+    background-color: black;
+    /* height: 300px; */
+}
+.dora1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 45px;
+}
